@@ -1,0 +1,15 @@
+{
+  "name": "newrelic_apm",
+  "version": "1.0.0",
+  "description": "apm client",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sudheer Panda",
+  "license": "ISC",
+  "dependencies": {
+    "elastic-apm-node": "^2.16.2",
+    "express": "^4.17.1"
+  }
+}
